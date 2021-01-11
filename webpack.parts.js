@@ -1,8 +1,10 @@
+const path = require("path")
 const { WebpackPluginServe } = require("webpack-plugin-serve");
 const {
   MiniHtmlWebpackPlugin
 } = require("mini-html-webpack-plugin");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
+const APP_SOURCE = path.join(__dirname, "src")
 
 exports.devServer = () => ({
   watch: true,
@@ -75,3 +77,12 @@ exports.loadImages = ({ limit } = {}) => ({
     ],
   },
 });
+
+exports.loadJavaScript = () => ({
+  module: {
+    rules: [
+      // Consider extracting include as a parameter
+      { test: /\.js$/, include: APP_SOURCE, use: "babel-loader" },
+    ]
+  }
+})
