@@ -5,4 +5,8 @@
 
 body {
   background-color: cornsilk;
+
+  background-image: url("./logo.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
 }
