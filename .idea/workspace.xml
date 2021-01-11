@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2e36ea2-c7e0-4200-993d-d934d3f236fb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webpack.parts.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.parts.js" afterDir="false" />
     </list>
@@ -55,11 +52,17 @@
       <workItem from="1609679077681" duration="566000" />
       <workItem from="1609720747871" duration="2878000" />
       <workItem from="1609895700100" duration="592000" />
-      <workItem from="1610024604082" duration="5495000" />
+      <workItem from="1610024604082" duration="5977000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="345" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610327734941">
+      <screen x="26" y="23" width="1654" height="1027" />
+    </state>
+    <state x="555" y="345" key="#com.intellij.fileTypes.FileTypeChooser/26.23.1654.1027@26.23.1654.1027" timestamp="1610327734941" />
   </component>
 </project>

@@ -56,3 +56,10 @@ exports.tailwind = () => ({
     postcssOptions: { plugins: [require("tailwindcss")()] }
   }
 })
+
+exports.autoprefix = () => ({
+  loader: "postcss-loader",
+  options: {
+    postcssOptions: { plugins: [require("autoprefixer")()] }
+  }
+})
