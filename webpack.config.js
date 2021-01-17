@@ -37,10 +37,14 @@ const productionConfig = merge([
             chunks: "initial",
           },
         }
-      }
+      },
+      runtimeChunk: { name: "runtime" }
     }
   },
-  parts.attachRevision()
+  parts.attachRevision(),
+  {
+    recordsPath: path.join(__dirname, "records.json")
+  }
 ]);
 
 const developmentConfig = merge([
