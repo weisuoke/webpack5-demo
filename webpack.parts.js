@@ -1,11 +1,15 @@
-const path = require("path")
-const glob = require("glob")
+const path = require("path");
+const glob = require("glob");
+const webpack = require("webpack");
 const { WebpackPluginServe } = require("webpack-plugin-serve");
 const {
   MiniHtmlWebpackPlugin
 } = require("mini-html-webpack-plugin");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 const PurgeCSSPlugin = require("purgecss-webpack-plugin");
+const { CleanWebpackPlugin } = require("clean-webpack-plugin");
+const GitRevisionPlugin = require("git-revision-webpack-plugin");
+
 const APP_SOURCE = path.join(__dirname, "src")
 const ALL_FILES = glob.sync(path.join(__dirname, "src/*.js"));
 
@@ -103,5 +107,15 @@ exports.loadJavaScript = () => ({
     ]
   }
 })
+
+exports.attachRevision = () => ({
+  plugins: [
+    new webpack.BannerPlugin({
+      banner: new GitRevisionPlugin().version()
+    })
+  ]
+})
+
+exports.clean = () => ({ plugins: [new CleanWebpackPlugin()] })
 
 exports.generateSourceMaps = ({ type }) => ({ devtool: type });
