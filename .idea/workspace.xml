@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2e36ea2-c7e0-4200-993d-d934d3f236fb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.parts.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.parts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lazy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +56,11 @@
       <workItem from="1610024604082" duration="8237000" />
       <workItem from="1610355078048" duration="584000" />
       <workItem from="1610361350908" duration="835000" />
-      <workItem from="1610364646350" duration="1477000" />
+      <workItem from="1610364646350" duration="2086000" />
+      <workItem from="1610413046945" duration="593000" />
+      <workItem from="1610506699754" duration="1190000" />
+      <workItem from="1610705769317" duration="884000" />
+      <workItem from="1577836935399" duration="676000" />
     </task>
     <servers />
   </component>
