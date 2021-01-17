@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "wp --mode development",
-    "build": "wp --mode production"
+    "build": "wp --mode production",
+    "build:stats": "wp --mode production --json > stats.json"
   },
   "repository": {
     "type": "git",

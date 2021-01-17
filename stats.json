@@ -1,0 +1,3508 @@
+{
+  "hash": "ae00ce10610095084626",
+  "version": "5.11.0",
+  "time": 11043,
+  "builtAt": 1610899582043,
+  "publicPath": "auto",
+  "outputPath": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/dist",
+  "assetsByChunkName": {
+    "main": [
+      "main.f8de5030cbb24930cb23.css",
+      "main.16b8a8aa339b92d8cd33.js"
+    ],
+    "runtime": [
+      "runtime.3d196938a78471c3be98.js"
+    ]
+  },
+  "assets": [
+    {
+      "type": "asset",
+      "name": "main.f8de5030cbb24930cb23.css",
+      "size": 6636,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "immutable": true,
+        "contenthash": "f8de5030cbb24930cb23",
+        "minimized": true,
+        "size": 6636
+      },
+      "chunkNames": [
+        "main"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [
+        179
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "runtime.3d196938a78471c3be98.js",
+      "size": 3253,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "immutable": true,
+        "contenthash": "3d196938a78471c3be98",
+        "javascriptModule": false,
+        "minimized": true,
+        "related": {
+          "license": "runtime.3d196938a78471c3be98.js.LICENSE.txt",
+          "sourceMap": "runtime.3d196938a78471c3be98.js.map"
+        },
+        "size": 3253
+      },
+      "chunkNames": [
+        "runtime"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 0,
+      "related": [
+        {
+          "type": "sourceMap",
+          "name": "runtime.3d196938a78471c3be98.js.map",
+          "size": 15929,
+          "emitted": true,
+          "comparedForEmit": false,
+          "cached": false,
+          "info": {
+            "development": true,
+            "size": 15929
+          },
+          "chunkNames": [],
+          "chunkIdHints": [],
+          "auxiliaryChunkNames": [
+            "runtime"
+          ],
+          "auxiliaryChunkIdHints": [],
+          "related": {},
+          "chunks": [],
+          "auxiliaryChunks": [
+            666
+          ],
+          "isOverSizeLimit": false
+        },
+        {
+          "type": "license",
+          "name": "runtime.3d196938a78471c3be98.js.LICENSE.txt",
+          "size": 15,
+          "emitted": true,
+          "comparedForEmit": false,
+          "cached": false,
+          "info": {
+            "extractedComments": true,
+            "size": 15
+          },
+          "chunkNames": [],
+          "chunkIdHints": [],
+          "auxiliaryChunkNames": [],
+          "auxiliaryChunkIdHints": [],
+          "related": {},
+          "chunks": [],
+          "auxiliaryChunks": [],
+          "isOverSizeLimit": false
+        }
+      ],
+      "chunks": [
+        666
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "main.16b8a8aa339b92d8cd33.js",
+      "size": 670,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "immutable": true,
+        "contenthash": "16b8a8aa339b92d8cd33",
+        "javascriptModule": false,
+        "minimized": true,
+        "related": {
+          "license": "main.16b8a8aa339b92d8cd33.js.LICENSE.txt",
+          "sourceMap": "main.16b8a8aa339b92d8cd33.js.map"
+        },
+        "size": 670
+      },
+      "chunkNames": [
+        "main"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 0,
+      "related": [
+        {
+          "type": "sourceMap",
+          "name": "main.16b8a8aa339b92d8cd33.js.map",
+          "size": 1342,
+          "emitted": true,
+          "comparedForEmit": false,
+          "cached": false,
+          "info": {
+            "development": true,
+            "size": 1342
+          },
+          "chunkNames": [],
+          "chunkIdHints": [],
+          "auxiliaryChunkNames": [
+            "main"
+          ],
+          "auxiliaryChunkIdHints": [],
+          "related": {},
+          "chunks": [],
+          "auxiliaryChunks": [
+            179
+          ],
+          "isOverSizeLimit": false
+        },
+        {
+          "type": "license",
+          "name": "main.16b8a8aa339b92d8cd33.js.LICENSE.txt",
+          "size": 15,
+          "emitted": true,
+          "comparedForEmit": false,
+          "cached": false,
+          "info": {
+            "extractedComments": true,
+            "size": 15
+          },
+          "chunkNames": [],
+          "chunkIdHints": [],
+          "auxiliaryChunkNames": [],
+          "auxiliaryChunkIdHints": [],
+          "related": {},
+          "chunks": [],
+          "auxiliaryChunks": [],
+          "isOverSizeLimit": false
+        }
+      ],
+      "chunks": [
+        179
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "index.html",
+      "size": 326,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "size": 326
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "34.41321ffb363835e30475.js",
+      "size": 284,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "immutable": true,
+        "contenthash": "41321ffb363835e30475",
+        "javascriptModule": false,
+        "minimized": true,
+        "related": {
+          "license": "34.41321ffb363835e30475.js.LICENSE.txt",
+          "sourceMap": "34.41321ffb363835e30475.js.map"
+        },
+        "size": 284
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 0,
+      "related": [
+        {
+          "type": "sourceMap",
+          "name": "34.41321ffb363835e30475.js.map",
+          "size": 207,
+          "emitted": true,
+          "comparedForEmit": false,
+          "cached": false,
+          "info": {
+            "development": true,
+            "size": 207
+          },
+          "chunkNames": [],
+          "chunkIdHints": [],
+          "auxiliaryChunkNames": [],
+          "auxiliaryChunkIdHints": [],
+          "related": {},
+          "chunks": [],
+          "auxiliaryChunks": [
+            34
+          ],
+          "isOverSizeLimit": false
+        },
+        {
+          "type": "license",
+          "name": "34.41321ffb363835e30475.js.LICENSE.txt",
+          "size": 15,
+          "emitted": true,
+          "comparedForEmit": false,
+          "cached": false,
+          "info": {
+            "extractedComments": true,
+            "size": 15
+          },
+          "chunkNames": [],
+          "chunkIdHints": [],
+          "auxiliaryChunkNames": [],
+          "auxiliaryChunkIdHints": [],
+          "related": {},
+          "chunks": [],
+          "auxiliaryChunks": [],
+          "isOverSizeLimit": false
+        }
+      ],
+      "chunks": [
+        34
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    }
+  ],
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": false,
+      "entry": false,
+      "recorded": false,
+      "size": 33,
+      "sizes": {
+        "javascript": 33
+      },
+      "names": [],
+      "idHints": [],
+      "runtime": [
+        "runtime"
+      ],
+      "files": [
+        "34.41321ffb363835e30475.js"
+      ],
+      "auxiliaryFiles": [
+        "34.41321ffb363835e30475.js.map"
+      ],
+      "hash": "b927463b57bcdd1fb7b4",
+      "childrenByOrder": {},
+      "id": 34,
+      "siblings": [],
+      "parents": [
+        179,
+        666
+      ],
+      "children": [],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "size": 33,
+          "sizes": {
+            "javascript": 33
+          },
+          "built": true,
+          "codeGenerated": true,
+          "cached": false,
+          "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/lazy.js",
+          "name": "./src/lazy.js",
+          "nameForCondition": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/lazy.js",
+          "index": 5,
+          "preOrderIndex": 5,
+          "index2": 5,
+          "postOrderIndex": 5,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "issuer": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/component.js",
+          "issuerName": "./src/component.js",
+          "issuerPath": [
+            {
+              "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+              "name": "./src/index.js",
+              "id": null
+            },
+            {
+              "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/component.js",
+              "name": "./src/component.js",
+              "id": null
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 34,
+          "issuerId": null,
+          "chunks": [
+            34
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/component.js",
+              "module": "./src/component.js",
+              "moduleName": "./src/component.js",
+              "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/component.js",
+              "resolvedModule": "./src/component.js",
+              "type": "import()",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./lazy",
+              "loc": "8:11-27",
+              "moduleId": null,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js|3b5704a399f34a5e9c67262b3ec8146c",
+              "module": "./src/index.js + 3 modules",
+              "moduleName": "./src/index.js + 3 modules",
+              "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/component.js",
+              "resolvedModule": "./src/component.js",
+              "type": "import()",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./lazy",
+              "loc": "8:11-27",
+              "moduleId": 626,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": true,
+          "providedExports": [
+            "default"
+          ],
+          "optimizationBailout": [],
+          "depth": 2
+        }
+      ],
+      "origins": [
+        {
+          "module": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/component.js",
+          "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/component.js",
+          "moduleName": "./src/component.js",
+          "loc": "8:11-27",
+          "request": "./lazy",
+          "moduleId": null
+        }
+      ]
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": false,
+      "recorded": false,
+      "size": 4384394,
+      "sizes": {
+        "javascript": 832,
+        "css/mini-extract": 4383562
+      },
+      "names": [
+        "main"
+      ],
+      "idHints": [],
+      "runtime": [
+        "runtime"
+      ],
+      "files": [
+        "main.f8de5030cbb24930cb23.css",
+        "main.16b8a8aa339b92d8cd33.js"
+      ],
+      "auxiliaryFiles": [
+        "main.16b8a8aa339b92d8cd33.js.map"
+      ],
+      "hash": "d9b5463fdff3c3fcb029",
+      "childrenByOrder": {},
+      "id": 179,
+      "siblings": [
+        666
+      ],
+      "parents": [],
+      "children": [
+        34
+      ],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/esm",
+          "size": 832,
+          "sizes": {
+            "javascript": 832
+          },
+          "built": true,
+          "codeGenerated": true,
+          "cached": false,
+          "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js|3b5704a399f34a5e9c67262b3ec8146c",
+          "name": "./src/index.js + 3 modules",
+          "nameForCondition": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+          "index": 0,
+          "preOrderIndex": 0,
+          "index2": 4,
+          "postOrderIndex": 4,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 626,
+          "chunks": [
+            179
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": "entry",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./src",
+              "loc": "main",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": [],
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": 0,
+          "modules": [
+            {
+              "type": "module",
+              "moduleType": "javascript/auto",
+              "size": 137,
+              "sizes": {
+                "javascript": 137
+              },
+              "built": true,
+              "codeGenerated": false,
+              "cached": false,
+              "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+              "name": "./src/index.js",
+              "nameForCondition": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+              "index": 0,
+              "preOrderIndex": 0,
+              "index2": 4,
+              "postOrderIndex": 4,
+              "cacheable": true,
+              "optional": false,
+              "orphan": false,
+              "dependent": true,
+              "issuer": null,
+              "issuerName": null,
+              "issuerPath": null,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "id": null,
+              "issuerId": null,
+              "chunks": [],
+              "assets": [],
+              "reasons": [],
+              "usedExports": [],
+              "providedExports": [],
+              "optimizationBailout": [
+                "Statement (ExpressionStatement) with side effects in source code at 4:0-39"
+              ],
+              "depth": 0
+            },
+            {
+              "type": "module",
+              "moduleType": "javascript/auto",
+              "size": 50,
+              "sizes": {
+                "javascript": 50
+              },
+              "built": true,
+              "codeGenerated": false,
+              "cached": false,
+              "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/mini-css-extract-plugin/dist/loader.js??ruleSet[1].rules[0].use[0]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+              "name": "./src/main.css",
+              "nameForCondition": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+              "index": 1,
+              "preOrderIndex": 1,
+              "index2": 1,
+              "postOrderIndex": 1,
+              "cacheable": true,
+              "optional": false,
+              "orphan": false,
+              "dependent": true,
+              "issuer": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+              "issuerName": "./src/index.js",
+              "issuerPath": [
+                {
+                  "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+                  "name": "./src/index.js",
+                  "id": null
+                }
+              ],
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "id": null,
+              "issuerId": null,
+              "chunks": [],
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+                  "module": "./src/index.js",
+                  "moduleName": "./src/index.js",
+                  "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+                  "resolvedModule": "./src/index.js",
+                  "type": "harmony side effect evaluation",
+                  "active": true,
+                  "explanation": "",
+                  "userRequest": "./main.css",
+                  "loc": "1:0-20",
+                  "moduleId": null,
+                  "resolvedModuleId": null
+                }
+              ],
+              "usedExports": [],
+              "providedExports": [],
+              "optimizationBailout": [],
+              "depth": 1
+            },
+            {
+              "type": "module",
+              "moduleType": "javascript/auto",
+              "size": 493,
+              "sizes": {
+                "javascript": 493
+              },
+              "built": true,
+              "codeGenerated": false,
+              "cached": false,
+              "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/component.js",
+              "name": "./src/component.js",
+              "nameForCondition": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/component.js",
+              "index": 3,
+              "preOrderIndex": 3,
+              "index2": 2,
+              "postOrderIndex": 2,
+              "cacheable": true,
+              "optional": false,
+              "orphan": false,
+              "dependent": true,
+              "issuer": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+              "issuerName": "./src/index.js",
+              "issuerPath": [
+                {
+                  "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+                  "name": "./src/index.js",
+                  "id": null
+                }
+              ],
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "id": null,
+              "issuerId": null,
+              "chunks": [],
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+                  "module": "./src/index.js",
+                  "moduleName": "./src/index.js",
+                  "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+                  "resolvedModule": "./src/index.js",
+                  "type": "harmony side effect evaluation",
+                  "active": false,
+                  "explanation": "",
+                  "userRequest": "./component",
+                  "loc": "2:0-36",
+                  "moduleId": null,
+                  "resolvedModuleId": null
+                },
+                {
+                  "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+                  "module": "./src/index.js",
+                  "moduleName": "./src/index.js",
+                  "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+                  "resolvedModule": "./src/index.js",
+                  "type": "harmony import specifier",
+                  "active": true,
+                  "explanation": "",
+                  "userRequest": "./component",
+                  "loc": "4:26-35",
+                  "moduleId": null,
+                  "resolvedModuleId": null
+                }
+              ],
+              "usedExports": [
+                "default"
+              ],
+              "providedExports": [
+                "default"
+              ],
+              "optimizationBailout": [],
+              "depth": 1
+            },
+            {
+              "type": "module",
+              "moduleType": "javascript/auto",
+              "size": 152,
+              "sizes": {
+                "javascript": 152
+              },
+              "built": true,
+              "codeGenerated": false,
+              "cached": false,
+              "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/shake.js",
+              "name": "./src/shake.js",
+              "nameForCondition": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/shake.js",
+              "index": 4,
+              "preOrderIndex": 4,
+              "index2": 3,
+              "postOrderIndex": 3,
+              "cacheable": true,
+              "optional": false,
+              "orphan": false,
+              "dependent": true,
+              "issuer": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+              "issuerName": "./src/index.js",
+              "issuerPath": [
+                {
+                  "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+                  "name": "./src/index.js",
+                  "id": null
+                }
+              ],
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "id": null,
+              "issuerId": null,
+              "chunks": [],
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+                  "module": "./src/index.js",
+                  "moduleName": "./src/index.js",
+                  "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+                  "resolvedModule": "./src/index.js",
+                  "type": "harmony side effect evaluation",
+                  "active": false,
+                  "explanation": "",
+                  "userRequest": "./shake",
+                  "loc": "3:0-31",
+                  "moduleId": null,
+                  "resolvedModuleId": null
+                },
+                {
+                  "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+                  "module": "./src/index.js",
+                  "moduleName": "./src/index.js",
+                  "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+                  "resolvedModule": "./src/index.js",
+                  "type": "harmony import specifier",
+                  "active": true,
+                  "explanation": "",
+                  "userRequest": "./shake",
+                  "loc": "5:0-4",
+                  "moduleId": null,
+                  "resolvedModuleId": null
+                }
+              ],
+              "usedExports": [
+                "bake"
+              ],
+              "providedExports": [
+                "bake",
+                "shake"
+              ],
+              "optimizationBailout": [],
+              "depth": 1
+            }
+          ]
+        },
+        {
+          "type": "module",
+          "moduleType": "css/mini-extract",
+          "size": 4383562,
+          "sizes": {
+            "css/mini-extract": 4383562
+          },
+          "built": false,
+          "codeGenerated": true,
+          "cached": false,
+          "identifier": "css /Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css 0",
+          "name": "css ./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+          "nameForCondition": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+          "index": 2,
+          "preOrderIndex": 2,
+          "index2": 0,
+          "postOrderIndex": 0,
+          "optional": false,
+          "orphan": false,
+          "dependent": true,
+          "issuer": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/mini-css-extract-plugin/dist/loader.js??ruleSet[1].rules[0].use[0]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+          "issuerName": "./src/main.css",
+          "issuerPath": [
+            {
+              "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+              "name": "./src/index.js",
+              "id": null
+            },
+            {
+              "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/mini-css-extract-plugin/dist/loader.js??ruleSet[1].rules[0].use[0]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+              "name": "./src/main.css",
+              "id": null
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": null,
+          "issuerId": null,
+          "chunks": [
+            179
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js|3b5704a399f34a5e9c67262b3ec8146c",
+              "module": "./src/index.js + 3 modules",
+              "moduleName": "./src/index.js + 3 modules",
+              "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/mini-css-extract-plugin/dist/loader.js??ruleSet[1].rules[0].use[0]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+              "resolvedModule": "./src/main.css",
+              "type": "unknown",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "moduleId": 626,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/mini-css-extract-plugin/dist/loader.js??ruleSet[1].rules[0].use[0]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+              "module": "./src/main.css",
+              "moduleName": "./src/main.css",
+              "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/mini-css-extract-plugin/dist/loader.js??ruleSet[1].rules[0].use[0]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+              "resolvedModule": "./src/main.css",
+              "type": "unknown",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": null,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module Concatenation is not implemented for CssModule"
+          ],
+          "depth": 2
+        }
+      ],
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "main",
+          "request": "./src"
+        }
+      ]
+    },
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 8116,
+      "sizes": {
+        "runtime": 8116
+      },
+      "names": [
+        "runtime"
+      ],
+      "idHints": [],
+      "runtime": [
+        "runtime"
+      ],
+      "files": [
+        "runtime.3d196938a78471c3be98.js"
+      ],
+      "auxiliaryFiles": [
+        "runtime.3d196938a78471c3be98.js.map"
+      ],
+      "hash": "1190b9fef158b5a006f1",
+      "childrenByOrder": {},
+      "id": 666,
+      "siblings": [
+        179
+      ],
+      "parents": [],
+      "children": [
+        34
+      ],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "size": 0,
+          "sizes": {
+            "runtime": 0
+          },
+          "built": false,
+          "codeGenerated": true,
+          "cached": false,
+          "identifier": "webpack/runtime/css loading",
+          "name": "webpack/runtime/css loading",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            666
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "size": 336,
+          "sizes": {
+            "runtime": 336
+          },
+          "built": false,
+          "codeGenerated": true,
+          "cached": false,
+          "identifier": "webpack/runtime/ensure chunk",
+          "name": "webpack/runtime/ensure chunk",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            666
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "size": 203,
+          "sizes": {
+            "runtime": 203
+          },
+          "built": false,
+          "codeGenerated": true,
+          "cached": false,
+          "identifier": "webpack/runtime/get javascript chunk filename",
+          "name": "webpack/runtime/get javascript chunk filename",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            666
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "size": 299,
+          "sizes": {
+            "runtime": 299
+          },
+          "built": false,
+          "codeGenerated": true,
+          "cached": false,
+          "identifier": "webpack/runtime/get mini-css chunk filename",
+          "name": "webpack/runtime/get mini-css chunk filename",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            666
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "size": 221,
+          "sizes": {
+            "runtime": 221
+          },
+          "built": false,
+          "codeGenerated": true,
+          "cached": false,
+          "identifier": "webpack/runtime/global",
+          "name": "webpack/runtime/global",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            666
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "size": 103,
+          "sizes": {
+            "runtime": 103
+          },
+          "built": false,
+          "codeGenerated": true,
+          "cached": false,
+          "identifier": "webpack/runtime/hasOwnProperty shorthand",
+          "name": "webpack/runtime/hasOwnProperty shorthand",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            666
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "size": 4282,
+          "sizes": {
+            "runtime": 4282
+          },
+          "built": false,
+          "codeGenerated": true,
+          "cached": false,
+          "identifier": "webpack/runtime/jsonp chunk loading",
+          "name": "webpack/runtime/jsonp chunk loading",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            666
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "size": 1526,
+          "sizes": {
+            "runtime": 1526
+          },
+          "built": false,
+          "codeGenerated": true,
+          "cached": false,
+          "identifier": "webpack/runtime/load script",
+          "name": "webpack/runtime/load script",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            666
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "size": 279,
+          "sizes": {
+            "runtime": 279
+          },
+          "built": false,
+          "codeGenerated": true,
+          "cached": false,
+          "identifier": "webpack/runtime/make namespace object",
+          "name": "webpack/runtime/make namespace object",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            666
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "size": 867,
+          "sizes": {
+            "runtime": 867
+          },
+          "built": false,
+          "codeGenerated": true,
+          "cached": false,
+          "identifier": "webpack/runtime/publicPath",
+          "name": "webpack/runtime/publicPath",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            666
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        }
+      ],
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "main",
+          "request": "./src"
+        }
+      ]
+    }
+  ],
+  "modules": [
+    {
+      "type": "module",
+      "moduleType": "javascript/esm",
+      "size": 832,
+      "sizes": {
+        "javascript": 832
+      },
+      "built": true,
+      "codeGenerated": true,
+      "cached": false,
+      "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js|3b5704a399f34a5e9c67262b3ec8146c",
+      "name": "./src/index.js + 3 modules",
+      "nameForCondition": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+      "index": 0,
+      "preOrderIndex": 0,
+      "index2": 4,
+      "postOrderIndex": 4,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 626,
+      "chunks": [
+        179
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "resolvedModuleIdentifier": null,
+          "resolvedModule": null,
+          "type": "entry",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./src",
+          "loc": "main",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": [],
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": 0,
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "size": 137,
+          "sizes": {
+            "javascript": 137
+          },
+          "built": true,
+          "codeGenerated": false,
+          "cached": false,
+          "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+          "name": "./src/index.js",
+          "nameForCondition": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+          "index": 0,
+          "preOrderIndex": 0,
+          "index2": 4,
+          "postOrderIndex": 4,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "issuer": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": null,
+          "issuerId": null,
+          "chunks": [],
+          "assets": [],
+          "reasons": [],
+          "usedExports": [],
+          "providedExports": [],
+          "optimizationBailout": [
+            "Statement (ExpressionStatement) with side effects in source code at 4:0-39"
+          ],
+          "depth": 0
+        },
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "size": 50,
+          "sizes": {
+            "javascript": 50
+          },
+          "built": true,
+          "codeGenerated": false,
+          "cached": false,
+          "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/mini-css-extract-plugin/dist/loader.js??ruleSet[1].rules[0].use[0]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+          "name": "./src/main.css",
+          "nameForCondition": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+          "index": 1,
+          "preOrderIndex": 1,
+          "index2": 1,
+          "postOrderIndex": 1,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "issuer": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+          "issuerName": "./src/index.js",
+          "issuerPath": [
+            {
+              "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+              "name": "./src/index.js",
+              "id": null
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": null,
+          "issuerId": null,
+          "chunks": [],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+              "module": "./src/index.js",
+              "moduleName": "./src/index.js",
+              "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+              "resolvedModule": "./src/index.js",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./main.css",
+              "loc": "1:0-20",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": [],
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": 1
+        },
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "size": 493,
+          "sizes": {
+            "javascript": 493
+          },
+          "built": true,
+          "codeGenerated": false,
+          "cached": false,
+          "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/component.js",
+          "name": "./src/component.js",
+          "nameForCondition": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/component.js",
+          "index": 3,
+          "preOrderIndex": 3,
+          "index2": 2,
+          "postOrderIndex": 2,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "issuer": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+          "issuerName": "./src/index.js",
+          "issuerPath": [
+            {
+              "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+              "name": "./src/index.js",
+              "id": null
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": null,
+          "issuerId": null,
+          "chunks": [],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+              "module": "./src/index.js",
+              "moduleName": "./src/index.js",
+              "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+              "resolvedModule": "./src/index.js",
+              "type": "harmony side effect evaluation",
+              "active": false,
+              "explanation": "",
+              "userRequest": "./component",
+              "loc": "2:0-36",
+              "moduleId": null,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+              "module": "./src/index.js",
+              "moduleName": "./src/index.js",
+              "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+              "resolvedModule": "./src/index.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./component",
+              "loc": "4:26-35",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": [
+            "default"
+          ],
+          "providedExports": [
+            "default"
+          ],
+          "optimizationBailout": [],
+          "depth": 1
+        },
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "size": 152,
+          "sizes": {
+            "javascript": 152
+          },
+          "built": true,
+          "codeGenerated": false,
+          "cached": false,
+          "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/shake.js",
+          "name": "./src/shake.js",
+          "nameForCondition": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/shake.js",
+          "index": 4,
+          "preOrderIndex": 4,
+          "index2": 3,
+          "postOrderIndex": 3,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "issuer": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+          "issuerName": "./src/index.js",
+          "issuerPath": [
+            {
+              "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+              "name": "./src/index.js",
+              "id": null
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": null,
+          "issuerId": null,
+          "chunks": [],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+              "module": "./src/index.js",
+              "moduleName": "./src/index.js",
+              "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+              "resolvedModule": "./src/index.js",
+              "type": "harmony side effect evaluation",
+              "active": false,
+              "explanation": "",
+              "userRequest": "./shake",
+              "loc": "3:0-31",
+              "moduleId": null,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+              "module": "./src/index.js",
+              "moduleName": "./src/index.js",
+              "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+              "resolvedModule": "./src/index.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./shake",
+              "loc": "5:0-4",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": [
+            "bake"
+          ],
+          "providedExports": [
+            "bake",
+            "shake"
+          ],
+          "optimizationBailout": [],
+          "depth": 1
+        }
+      ]
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "size": 50,
+      "sizes": {
+        "javascript": 50
+      },
+      "built": true,
+      "codeGenerated": false,
+      "cached": false,
+      "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/mini-css-extract-plugin/dist/loader.js??ruleSet[1].rules[0].use[0]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+      "name": "./src/main.css",
+      "nameForCondition": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+      "index": 1,
+      "preOrderIndex": 1,
+      "index2": 1,
+      "postOrderIndex": 1,
+      "cacheable": true,
+      "optional": false,
+      "orphan": true,
+      "issuer": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+      "issuerName": "./src/index.js",
+      "issuerPath": [
+        {
+          "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+          "name": "./src/index.js",
+          "id": null
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "issuerId": null,
+      "chunks": [],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+          "module": "./src/index.js",
+          "moduleName": "./src/index.js",
+          "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+          "resolvedModule": "./src/index.js",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./main.css",
+          "loc": "1:0-20",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": [],
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": 1
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "size": 493,
+      "sizes": {
+        "javascript": 493
+      },
+      "built": true,
+      "codeGenerated": false,
+      "cached": false,
+      "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/component.js",
+      "name": "./src/component.js",
+      "nameForCondition": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/component.js",
+      "index": 3,
+      "preOrderIndex": 3,
+      "index2": 2,
+      "postOrderIndex": 2,
+      "cacheable": true,
+      "optional": false,
+      "orphan": true,
+      "issuer": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+      "issuerName": "./src/index.js",
+      "issuerPath": [
+        {
+          "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+          "name": "./src/index.js",
+          "id": null
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "issuerId": null,
+      "chunks": [],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+          "module": "./src/index.js",
+          "moduleName": "./src/index.js",
+          "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+          "resolvedModule": "./src/index.js",
+          "type": "harmony side effect evaluation",
+          "active": false,
+          "explanation": "",
+          "userRequest": "./component",
+          "loc": "2:0-36",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+          "module": "./src/index.js",
+          "moduleName": "./src/index.js",
+          "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+          "resolvedModule": "./src/index.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./component",
+          "loc": "4:26-35",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": [
+        "default"
+      ],
+      "providedExports": [
+        "default"
+      ],
+      "optimizationBailout": [],
+      "depth": 1
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "size": 152,
+      "sizes": {
+        "javascript": 152
+      },
+      "built": true,
+      "codeGenerated": false,
+      "cached": false,
+      "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/shake.js",
+      "name": "./src/shake.js",
+      "nameForCondition": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/shake.js",
+      "index": 4,
+      "preOrderIndex": 4,
+      "index2": 3,
+      "postOrderIndex": 3,
+      "cacheable": true,
+      "optional": false,
+      "orphan": true,
+      "issuer": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+      "issuerName": "./src/index.js",
+      "issuerPath": [
+        {
+          "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+          "name": "./src/index.js",
+          "id": null
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "issuerId": null,
+      "chunks": [],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+          "module": "./src/index.js",
+          "moduleName": "./src/index.js",
+          "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+          "resolvedModule": "./src/index.js",
+          "type": "harmony side effect evaluation",
+          "active": false,
+          "explanation": "",
+          "userRequest": "./shake",
+          "loc": "3:0-31",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+          "module": "./src/index.js",
+          "moduleName": "./src/index.js",
+          "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+          "resolvedModule": "./src/index.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./shake",
+          "loc": "5:0-4",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": [
+        "bake"
+      ],
+      "providedExports": [
+        "bake",
+        "shake"
+      ],
+      "optimizationBailout": [],
+      "depth": 1
+    },
+    {
+      "type": "module",
+      "moduleType": "css/mini-extract",
+      "size": 4383562,
+      "sizes": {
+        "css/mini-extract": 4383562
+      },
+      "built": false,
+      "codeGenerated": true,
+      "cached": false,
+      "identifier": "css /Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css 0",
+      "name": "css ./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+      "nameForCondition": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+      "index": 2,
+      "preOrderIndex": 2,
+      "index2": 0,
+      "postOrderIndex": 0,
+      "optional": false,
+      "orphan": false,
+      "issuer": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/mini-css-extract-plugin/dist/loader.js??ruleSet[1].rules[0].use[0]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+      "issuerName": "./src/main.css",
+      "issuerPath": [
+        {
+          "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+          "name": "./src/index.js",
+          "id": null
+        },
+        {
+          "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/mini-css-extract-plugin/dist/loader.js??ruleSet[1].rules[0].use[0]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+          "name": "./src/main.css",
+          "id": null
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "issuerId": null,
+      "chunks": [
+        179
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js|3b5704a399f34a5e9c67262b3ec8146c",
+          "module": "./src/index.js + 3 modules",
+          "moduleName": "./src/index.js + 3 modules",
+          "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/mini-css-extract-plugin/dist/loader.js??ruleSet[1].rules[0].use[0]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+          "resolvedModule": "./src/main.css",
+          "type": "unknown",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "moduleId": 626,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/mini-css-extract-plugin/dist/loader.js??ruleSet[1].rules[0].use[0]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+          "module": "./src/main.css",
+          "moduleName": "./src/main.css",
+          "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/mini-css-extract-plugin/dist/loader.js??ruleSet[1].rules[0].use[0]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+          "resolvedModule": "./src/main.css",
+          "type": "unknown",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": null,
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module Concatenation is not implemented for CssModule"
+      ],
+      "depth": 2
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "size": 33,
+      "sizes": {
+        "javascript": 33
+      },
+      "built": true,
+      "codeGenerated": true,
+      "cached": false,
+      "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/lazy.js",
+      "name": "./src/lazy.js",
+      "nameForCondition": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/lazy.js",
+      "index": 5,
+      "preOrderIndex": 5,
+      "index2": 5,
+      "postOrderIndex": 5,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/component.js",
+      "issuerName": "./src/component.js",
+      "issuerPath": [
+        {
+          "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js",
+          "name": "./src/index.js",
+          "id": null
+        },
+        {
+          "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/component.js",
+          "name": "./src/component.js",
+          "id": null
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 34,
+      "issuerId": null,
+      "chunks": [
+        34
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/component.js",
+          "module": "./src/component.js",
+          "moduleName": "./src/component.js",
+          "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/component.js",
+          "resolvedModule": "./src/component.js",
+          "type": "import()",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./lazy",
+          "loc": "8:11-27",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/index.js|3b5704a399f34a5e9c67262b3ec8146c",
+          "module": "./src/index.js + 3 modules",
+          "moduleName": "./src/index.js + 3 modules",
+          "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/babel-loader/lib/index.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/component.js",
+          "resolvedModule": "./src/component.js",
+          "type": "import()",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./lazy",
+          "loc": "8:11-27",
+          "moduleId": 626,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": true,
+      "providedExports": [
+        "default"
+      ],
+      "optimizationBailout": [],
+      "depth": 2
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "size": 0,
+      "sizes": {
+        "runtime": 0
+      },
+      "built": false,
+      "codeGenerated": true,
+      "cached": false,
+      "identifier": "webpack/runtime/css loading",
+      "name": "webpack/runtime/css loading",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        666
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "size": 336,
+      "sizes": {
+        "runtime": 336
+      },
+      "built": false,
+      "codeGenerated": true,
+      "cached": false,
+      "identifier": "webpack/runtime/ensure chunk",
+      "name": "webpack/runtime/ensure chunk",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        666
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "size": 203,
+      "sizes": {
+        "runtime": 203
+      },
+      "built": false,
+      "codeGenerated": true,
+      "cached": false,
+      "identifier": "webpack/runtime/get javascript chunk filename",
+      "name": "webpack/runtime/get javascript chunk filename",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        666
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "size": 299,
+      "sizes": {
+        "runtime": 299
+      },
+      "built": false,
+      "codeGenerated": true,
+      "cached": false,
+      "identifier": "webpack/runtime/get mini-css chunk filename",
+      "name": "webpack/runtime/get mini-css chunk filename",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        666
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "size": 221,
+      "sizes": {
+        "runtime": 221
+      },
+      "built": false,
+      "codeGenerated": true,
+      "cached": false,
+      "identifier": "webpack/runtime/global",
+      "name": "webpack/runtime/global",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        666
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "size": 103,
+      "sizes": {
+        "runtime": 103
+      },
+      "built": false,
+      "codeGenerated": true,
+      "cached": false,
+      "identifier": "webpack/runtime/hasOwnProperty shorthand",
+      "name": "webpack/runtime/hasOwnProperty shorthand",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        666
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "size": 4282,
+      "sizes": {
+        "runtime": 4282
+      },
+      "built": false,
+      "codeGenerated": true,
+      "cached": false,
+      "identifier": "webpack/runtime/jsonp chunk loading",
+      "name": "webpack/runtime/jsonp chunk loading",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        666
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "size": 1526,
+      "sizes": {
+        "runtime": 1526
+      },
+      "built": false,
+      "codeGenerated": true,
+      "cached": false,
+      "identifier": "webpack/runtime/load script",
+      "name": "webpack/runtime/load script",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        666
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "size": 279,
+      "sizes": {
+        "runtime": 279
+      },
+      "built": false,
+      "codeGenerated": true,
+      "cached": false,
+      "identifier": "webpack/runtime/make namespace object",
+      "name": "webpack/runtime/make namespace object",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        666
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "size": 867,
+      "sizes": {
+        "runtime": 867
+      },
+      "built": false,
+      "codeGenerated": true,
+      "cached": false,
+      "identifier": "webpack/runtime/publicPath",
+      "name": "webpack/runtime/publicPath",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        666
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    }
+  ],
+  "entrypoints": {
+    "main": {
+      "name": "main",
+      "chunks": [
+        666,
+        179
+      ],
+      "assets": [
+        {
+          "name": "runtime.3d196938a78471c3be98.js",
+          "size": 3253
+        },
+        {
+          "name": "main.f8de5030cbb24930cb23.css",
+          "size": 6636
+        },
+        {
+          "name": "main.16b8a8aa339b92d8cd33.js",
+          "size": 670
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 10559,
+      "auxiliaryAssets": [
+        {
+          "name": "main.16b8a8aa339b92d8cd33.js.map",
+          "size": 1342
+        },
+        {
+          "name": "runtime.3d196938a78471c3be98.js.map",
+          "size": 15929
+        }
+      ],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 17271,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    }
+  },
+  "namedChunkGroups": {
+    "main": {
+      "name": "main",
+      "chunks": [
+        666,
+        179
+      ],
+      "assets": [
+        {
+          "name": "runtime.3d196938a78471c3be98.js",
+          "size": 3253
+        },
+        {
+          "name": "main.f8de5030cbb24930cb23.css",
+          "size": 6636
+        },
+        {
+          "name": "main.16b8a8aa339b92d8cd33.js",
+          "size": 670
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 10559,
+      "auxiliaryAssets": [
+        {
+          "name": "main.16b8a8aa339b92d8cd33.js.map",
+          "size": 1342
+        },
+        {
+          "name": "runtime.3d196938a78471c3be98.js.map",
+          "size": 15929
+        }
+      ],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 17271,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    }
+  },
+  "errors": [],
+  "errorsCount": 0,
+  "warnings": [],
+  "warningsCount": 0,
+  "children": [
+    {
+      "name": "mini-css-extract-plugin /Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+      "hash": "b74fb699cdcce2b4f99b",
+      "version": "5.11.0",
+      "time": 6765,
+      "builtAt": 1610899578324,
+      "publicPath": "auto",
+      "outputPath": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/dist",
+      "assetsByChunkName": {},
+      "assets": [],
+      "chunks": [
+        {
+          "rendered": true,
+          "initial": true,
+          "entry": true,
+          "recorded": false,
+          "size": 5747539.24,
+          "sizes": {
+            "javascript": 5746542.24,
+            "runtime": 997
+          },
+          "names": [
+            "mini-css-extract-plugin"
+          ],
+          "idHints": [],
+          "runtime": [
+            "mini-css-extract-plugin"
+          ],
+          "files": [],
+          "auxiliaryFiles": [],
+          "hash": "3100c02d3a1a15b62b62",
+          "childrenByOrder": {},
+          "id": 323,
+          "siblings": [],
+          "parents": [],
+          "children": [],
+          "modules": [
+            {
+              "type": "module",
+              "moduleType": "javascript/auto",
+              "size": 5736665,
+              "sizes": {
+                "javascript": 5736665
+              },
+              "built": true,
+              "codeGenerated": true,
+              "cached": false,
+              "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+              "name": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+              "nameForCondition": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+              "index": 0,
+              "preOrderIndex": 0,
+              "index2": 4,
+              "postOrderIndex": 4,
+              "cacheable": true,
+              "optional": false,
+              "orphan": false,
+              "dependent": false,
+              "issuer": null,
+              "issuerName": null,
+              "issuerPath": null,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "id": 354,
+              "issuerId": null,
+              "chunks": [
+                323
+              ],
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleIdentifier": null,
+                  "module": null,
+                  "moduleName": null,
+                  "resolvedModuleIdentifier": null,
+                  "resolvedModule": null,
+                  "type": "entry",
+                  "active": true,
+                  "explanation": "",
+                  "userRequest": "!!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+                  "loc": "mini-css-extract-plugin",
+                  "moduleId": null,
+                  "resolvedModuleId": null
+                },
+                {
+                  "moduleIdentifier": null,
+                  "module": null,
+                  "moduleName": null,
+                  "resolvedModuleIdentifier": null,
+                  "resolvedModule": null,
+                  "type": null,
+                  "active": true,
+                  "explanation": "used as library export",
+                  "userRequest": null,
+                  "moduleId": null,
+                  "resolvedModuleId": null
+                }
+              ],
+              "usedExports": true,
+              "providedExports": [
+                "default"
+              ],
+              "optimizationBailout": [
+                "Statement (VariableDeclaration) with side effects in source code at 6:0-97",
+                "ModuleConcatenation bailout: Module uses module.id"
+              ],
+              "depth": 0
+            },
+            {
+              "type": "module",
+              "moduleType": "javascript/auto",
+              "size": 1605,
+              "sizes": {
+                "javascript": 1605
+              },
+              "built": true,
+              "codeGenerated": true,
+              "cached": false,
+              "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/runtime/api.js",
+              "name": "./node_modules/css-loader/dist/runtime/api.js",
+              "nameForCondition": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/runtime/api.js",
+              "index": 2,
+              "preOrderIndex": 2,
+              "index2": 1,
+              "postOrderIndex": 1,
+              "cacheable": true,
+              "optional": false,
+              "orphan": false,
+              "dependent": true,
+              "issuer": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+              "issuerName": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+              "issuerPath": [
+                {
+                  "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+                  "name": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+                  "id": 354
+                }
+              ],
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "id": 645,
+              "issuerId": 354,
+              "chunks": [
+                323
+              ],
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+                  "module": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+                  "moduleName": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+                  "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+                  "resolvedModule": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+                  "type": "harmony side effect evaluation",
+                  "active": true,
+                  "explanation": "",
+                  "userRequest": "../node_modules/css-loader/dist/runtime/api.js",
+                  "loc": "3:0-89",
+                  "moduleId": 354,
+                  "resolvedModuleId": 354
+                },
+                {
+                  "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+                  "module": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+                  "moduleName": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+                  "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+                  "resolvedModule": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+                  "type": "harmony import specifier",
+                  "active": true,
+                  "explanation": "",
+                  "userRequest": "../node_modules/css-loader/dist/runtime/api.js",
+                  "loc": "6:30-57",
+                  "moduleId": 354,
+                  "resolvedModuleId": 354
+                },
+                {
+                  "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/runtime/api.js",
+                  "module": "./node_modules/css-loader/dist/runtime/api.js",
+                  "moduleName": "./node_modules/css-loader/dist/runtime/api.js",
+                  "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/runtime/api.js",
+                  "resolvedModule": "./node_modules/css-loader/dist/runtime/api.js",
+                  "type": "cjs self exports reference",
+                  "active": true,
+                  "explanation": "",
+                  "userRequest": null,
+                  "loc": "9:0-14",
+                  "moduleId": 645,
+                  "resolvedModuleId": 645
+                }
+              ],
+              "usedExports": null,
+              "providedExports": null,
+              "optimizationBailout": [
+                "CommonJS bailout: module.exports is used directly at 9:0-14",
+                "Statement (ExpressionStatement) with side effects in source code at 9:0-66:2",
+                "ModuleConcatenation bailout: Module is not an ECMAScript module"
+              ],
+              "depth": 1
+            },
+            {
+              "type": "module",
+              "moduleType": "javascript/auto",
+              "size": 2266,
+              "sizes": {
+                "javascript": 2266
+              },
+              "built": true,
+              "codeGenerated": true,
+              "cached": false,
+              "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/runtime/cssWithMappingToString.js",
+              "name": "./node_modules/css-loader/dist/runtime/cssWithMappingToString.js",
+              "nameForCondition": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/runtime/cssWithMappingToString.js",
+              "index": 1,
+              "preOrderIndex": 1,
+              "index2": 0,
+              "postOrderIndex": 0,
+              "cacheable": true,
+              "optional": false,
+              "orphan": false,
+              "dependent": true,
+              "issuer": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+              "issuerName": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+              "issuerPath": [
+                {
+                  "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+                  "name": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+                  "id": 354
+                }
+              ],
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "id": 15,
+              "issuerId": 354,
+              "chunks": [
+                323
+              ],
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+                  "module": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+                  "moduleName": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+                  "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+                  "resolvedModule": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+                  "type": "harmony side effect evaluation",
+                  "active": true,
+                  "explanation": "",
+                  "userRequest": "../node_modules/css-loader/dist/runtime/cssWithMappingToString.js",
+                  "loc": "2:0-118",
+                  "moduleId": 354,
+                  "resolvedModuleId": 354
+                },
+                {
+                  "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+                  "module": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+                  "moduleName": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+                  "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+                  "resolvedModule": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+                  "type": "harmony import specifier",
+                  "active": true,
+                  "explanation": "",
+                  "userRequest": "../node_modules/css-loader/dist/runtime/cssWithMappingToString.js",
+                  "loc": "6:58-95",
+                  "moduleId": 354,
+                  "resolvedModuleId": 354
+                },
+                {
+                  "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/runtime/cssWithMappingToString.js",
+                  "module": "./node_modules/css-loader/dist/runtime/cssWithMappingToString.js",
+                  "moduleName": "./node_modules/css-loader/dist/runtime/cssWithMappingToString.js",
+                  "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/runtime/cssWithMappingToString.js",
+                  "resolvedModule": "./node_modules/css-loader/dist/runtime/cssWithMappingToString.js",
+                  "type": "cjs self exports reference",
+                  "active": true,
+                  "explanation": "",
+                  "userRequest": null,
+                  "loc": "15:0-14",
+                  "moduleId": 15,
+                  "resolvedModuleId": 15
+                }
+              ],
+              "usedExports": null,
+              "providedExports": null,
+              "optimizationBailout": [
+                "CommonJS bailout: module.exports is used directly at 15:0-14",
+                "Statement (ExpressionStatement) with side effects in source code at 15:0-32:2",
+                "ModuleConcatenation bailout: Module is not an ECMAScript module"
+              ],
+              "depth": 1
+            },
+            {
+              "type": "module",
+              "moduleType": "javascript/auto",
+              "size": 830,
+              "sizes": {
+                "javascript": 830
+              },
+              "built": true,
+              "codeGenerated": true,
+              "cached": false,
+              "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/runtime/getUrl.js",
+              "name": "./node_modules/css-loader/dist/runtime/getUrl.js",
+              "nameForCondition": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/runtime/getUrl.js",
+              "index": 3,
+              "preOrderIndex": 3,
+              "index2": 2,
+              "postOrderIndex": 2,
+              "cacheable": true,
+              "optional": false,
+              "orphan": false,
+              "dependent": true,
+              "issuer": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+              "issuerName": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+              "issuerPath": [
+                {
+                  "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+                  "name": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+                  "id": 354
+                }
+              ],
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "id": 667,
+              "issuerId": 354,
+              "chunks": [
+                323
+              ],
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+                  "module": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+                  "moduleName": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+                  "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+                  "resolvedModule": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+                  "type": "harmony side effect evaluation",
+                  "active": true,
+                  "explanation": "",
+                  "userRequest": "../node_modules/css-loader/dist/runtime/getUrl.js",
+                  "loc": "4:0-96",
+                  "moduleId": 354,
+                  "resolvedModuleId": 354
+                },
+                {
+                  "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+                  "module": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+                  "moduleName": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+                  "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+                  "resolvedModule": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+                  "type": "harmony import specifier",
+                  "active": true,
+                  "explanation": "",
+                  "userRequest": "../node_modules/css-loader/dist/runtime/getUrl.js",
+                  "loc": "7:41-72",
+                  "moduleId": 354,
+                  "resolvedModuleId": 354
+                },
+                {
+                  "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/runtime/getUrl.js",
+                  "module": "./node_modules/css-loader/dist/runtime/getUrl.js",
+                  "moduleName": "./node_modules/css-loader/dist/runtime/getUrl.js",
+                  "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/runtime/getUrl.js",
+                  "resolvedModule": "./node_modules/css-loader/dist/runtime/getUrl.js",
+                  "type": "cjs self exports reference",
+                  "active": true,
+                  "explanation": "",
+                  "userRequest": null,
+                  "loc": "3:0-14",
+                  "moduleId": 667,
+                  "resolvedModuleId": 667
+                }
+              ],
+              "usedExports": null,
+              "providedExports": null,
+              "optimizationBailout": [
+                "CommonJS bailout: module.exports is used directly at 3:0-14",
+                "Statement (ExpressionStatement) with side effects in source code at 3:0-34:2",
+                "ModuleConcatenation bailout: Module is not an ECMAScript module"
+              ],
+              "depth": 1
+            },
+            {
+              "type": "module",
+              "moduleType": "asset",
+              "size": 5176.240000000001,
+              "sizes": {
+                "javascript": 5176.240000000001
+              },
+              "built": true,
+              "codeGenerated": true,
+              "cached": false,
+              "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/logo.jpg",
+              "name": "./src/logo.jpg",
+              "nameForCondition": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/logo.jpg",
+              "index": 4,
+              "preOrderIndex": 4,
+              "index2": 3,
+              "postOrderIndex": 3,
+              "cacheable": true,
+              "optional": false,
+              "orphan": false,
+              "dependent": true,
+              "issuer": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+              "issuerName": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+              "issuerPath": [
+                {
+                  "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+                  "name": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+                  "id": 354
+                }
+              ],
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "id": 135,
+              "issuerId": 354,
+              "chunks": [
+                323
+              ],
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+                  "module": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+                  "moduleName": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+                  "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+                  "resolvedModule": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+                  "type": "harmony side effect evaluation",
+                  "active": true,
+                  "explanation": "",
+                  "userRequest": "./logo.jpg",
+                  "loc": "5:0-55",
+                  "moduleId": 354,
+                  "resolvedModuleId": 354
+                },
+                {
+                  "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+                  "module": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+                  "moduleName": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+                  "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+                  "resolvedModule": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+                  "type": "harmony import specifier",
+                  "active": true,
+                  "explanation": "",
+                  "userRequest": "./logo.jpg",
+                  "loc": "7:73-102",
+                  "moduleId": 354,
+                  "resolvedModuleId": 354
+                }
+              ],
+              "usedExports": true,
+              "providedExports": [],
+              "optimizationBailout": [
+                "ModuleConcatenation bailout: Module Concatenation is not implemented for AssetGenerator"
+              ],
+              "depth": 1
+            },
+            {
+              "type": "module",
+              "moduleType": "runtime",
+              "size": 302,
+              "sizes": {
+                "runtime": 302
+              },
+              "built": false,
+              "codeGenerated": true,
+              "cached": false,
+              "identifier": "webpack/runtime/compat get default export",
+              "name": "webpack/runtime/compat get default export",
+              "nameForCondition": null,
+              "index": null,
+              "preOrderIndex": null,
+              "index2": null,
+              "postOrderIndex": null,
+              "optional": false,
+              "orphan": false,
+              "dependent": false,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "id": "",
+              "chunks": [
+                323
+              ],
+              "assets": [],
+              "reasons": [],
+              "usedExports": null,
+              "providedExports": [],
+              "optimizationBailout": [],
+              "depth": null
+            },
+            {
+              "type": "module",
+              "moduleType": "runtime",
+              "size": 313,
+              "sizes": {
+                "runtime": 313
+              },
+              "built": false,
+              "codeGenerated": true,
+              "cached": false,
+              "identifier": "webpack/runtime/define property getters",
+              "name": "webpack/runtime/define property getters",
+              "nameForCondition": null,
+              "index": null,
+              "preOrderIndex": null,
+              "index2": null,
+              "postOrderIndex": null,
+              "optional": false,
+              "orphan": false,
+              "dependent": false,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "id": "",
+              "chunks": [
+                323
+              ],
+              "assets": [],
+              "reasons": [],
+              "usedExports": null,
+              "providedExports": [],
+              "optimizationBailout": [],
+              "depth": null
+            },
+            {
+              "type": "module",
+              "moduleType": "runtime",
+              "size": 103,
+              "sizes": {
+                "runtime": 103
+              },
+              "built": false,
+              "codeGenerated": true,
+              "cached": false,
+              "identifier": "webpack/runtime/hasOwnProperty shorthand",
+              "name": "webpack/runtime/hasOwnProperty shorthand",
+              "nameForCondition": null,
+              "index": null,
+              "preOrderIndex": null,
+              "index2": null,
+              "postOrderIndex": null,
+              "optional": false,
+              "orphan": false,
+              "dependent": false,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "id": "",
+              "chunks": [
+                323
+              ],
+              "assets": [],
+              "reasons": [],
+              "usedExports": null,
+              "providedExports": [],
+              "optimizationBailout": [],
+              "depth": null
+            },
+            {
+              "type": "module",
+              "moduleType": "runtime",
+              "size": 279,
+              "sizes": {
+                "runtime": 279
+              },
+              "built": false,
+              "codeGenerated": true,
+              "cached": false,
+              "identifier": "webpack/runtime/make namespace object",
+              "name": "webpack/runtime/make namespace object",
+              "nameForCondition": null,
+              "index": null,
+              "preOrderIndex": null,
+              "index2": null,
+              "postOrderIndex": null,
+              "optional": false,
+              "orphan": false,
+              "dependent": false,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "id": "",
+              "chunks": [
+                323
+              ],
+              "assets": [],
+              "reasons": [],
+              "usedExports": null,
+              "providedExports": [],
+              "optimizationBailout": [],
+              "depth": null
+            }
+          ],
+          "origins": [
+            {
+              "module": "",
+              "moduleIdentifier": "",
+              "moduleName": "",
+              "loc": "mini-css-extract-plugin",
+              "request": "!!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css"
+            }
+          ]
+        }
+      ],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "size": 5736665,
+          "sizes": {
+            "javascript": 5736665
+          },
+          "built": true,
+          "codeGenerated": true,
+          "cached": false,
+          "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+          "name": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+          "nameForCondition": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+          "index": 0,
+          "preOrderIndex": 0,
+          "index2": 4,
+          "postOrderIndex": 4,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "issuer": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 354,
+          "issuerId": null,
+          "chunks": [
+            323
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": "entry",
+              "active": true,
+              "explanation": "",
+              "userRequest": "!!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+              "loc": "mini-css-extract-plugin",
+              "moduleId": null,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": null,
+              "active": true,
+              "explanation": "used as library export",
+              "userRequest": null,
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": true,
+          "providedExports": [
+            "default"
+          ],
+          "optimizationBailout": [
+            "Statement (VariableDeclaration) with side effects in source code at 6:0-97",
+            "ModuleConcatenation bailout: Module uses module.id"
+          ],
+          "depth": 0
+        },
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "size": 2266,
+          "sizes": {
+            "javascript": 2266
+          },
+          "built": true,
+          "codeGenerated": true,
+          "cached": false,
+          "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/runtime/cssWithMappingToString.js",
+          "name": "./node_modules/css-loader/dist/runtime/cssWithMappingToString.js",
+          "nameForCondition": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/runtime/cssWithMappingToString.js",
+          "index": 1,
+          "preOrderIndex": 1,
+          "index2": 0,
+          "postOrderIndex": 0,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "issuer": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+          "issuerName": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+          "issuerPath": [
+            {
+              "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+              "name": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+              "id": 354
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 15,
+          "issuerId": 354,
+          "chunks": [
+            323
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+              "module": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+              "moduleName": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+              "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+              "resolvedModule": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "../node_modules/css-loader/dist/runtime/cssWithMappingToString.js",
+              "loc": "2:0-118",
+              "moduleId": 354,
+              "resolvedModuleId": 354
+            },
+            {
+              "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+              "module": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+              "moduleName": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+              "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+              "resolvedModule": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "../node_modules/css-loader/dist/runtime/cssWithMappingToString.js",
+              "loc": "6:58-95",
+              "moduleId": 354,
+              "resolvedModuleId": 354
+            },
+            {
+              "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/runtime/cssWithMappingToString.js",
+              "module": "./node_modules/css-loader/dist/runtime/cssWithMappingToString.js",
+              "moduleName": "./node_modules/css-loader/dist/runtime/cssWithMappingToString.js",
+              "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/runtime/cssWithMappingToString.js",
+              "resolvedModule": "./node_modules/css-loader/dist/runtime/cssWithMappingToString.js",
+              "type": "cjs self exports reference",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "15:0-14",
+              "moduleId": 15,
+              "resolvedModuleId": 15
+            }
+          ],
+          "usedExports": null,
+          "providedExports": null,
+          "optimizationBailout": [
+            "CommonJS bailout: module.exports is used directly at 15:0-14",
+            "Statement (ExpressionStatement) with side effects in source code at 15:0-32:2",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1
+        },
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "size": 1605,
+          "sizes": {
+            "javascript": 1605
+          },
+          "built": true,
+          "codeGenerated": true,
+          "cached": false,
+          "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/runtime/api.js",
+          "name": "./node_modules/css-loader/dist/runtime/api.js",
+          "nameForCondition": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/runtime/api.js",
+          "index": 2,
+          "preOrderIndex": 2,
+          "index2": 1,
+          "postOrderIndex": 1,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "issuer": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+          "issuerName": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+          "issuerPath": [
+            {
+              "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+              "name": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+              "id": 354
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 645,
+          "issuerId": 354,
+          "chunks": [
+            323
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+              "module": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+              "moduleName": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+              "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+              "resolvedModule": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "../node_modules/css-loader/dist/runtime/api.js",
+              "loc": "3:0-89",
+              "moduleId": 354,
+              "resolvedModuleId": 354
+            },
+            {
+              "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+              "module": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+              "moduleName": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+              "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+              "resolvedModule": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "../node_modules/css-loader/dist/runtime/api.js",
+              "loc": "6:30-57",
+              "moduleId": 354,
+              "resolvedModuleId": 354
+            },
+            {
+              "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/runtime/api.js",
+              "module": "./node_modules/css-loader/dist/runtime/api.js",
+              "moduleName": "./node_modules/css-loader/dist/runtime/api.js",
+              "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/runtime/api.js",
+              "resolvedModule": "./node_modules/css-loader/dist/runtime/api.js",
+              "type": "cjs self exports reference",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "9:0-14",
+              "moduleId": 645,
+              "resolvedModuleId": 645
+            }
+          ],
+          "usedExports": null,
+          "providedExports": null,
+          "optimizationBailout": [
+            "CommonJS bailout: module.exports is used directly at 9:0-14",
+            "Statement (ExpressionStatement) with side effects in source code at 9:0-66:2",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1
+        },
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "size": 830,
+          "sizes": {
+            "javascript": 830
+          },
+          "built": true,
+          "codeGenerated": true,
+          "cached": false,
+          "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/runtime/getUrl.js",
+          "name": "./node_modules/css-loader/dist/runtime/getUrl.js",
+          "nameForCondition": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/runtime/getUrl.js",
+          "index": 3,
+          "preOrderIndex": 3,
+          "index2": 2,
+          "postOrderIndex": 2,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "issuer": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+          "issuerName": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+          "issuerPath": [
+            {
+              "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+              "name": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+              "id": 354
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 667,
+          "issuerId": 354,
+          "chunks": [
+            323
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+              "module": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+              "moduleName": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+              "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+              "resolvedModule": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "../node_modules/css-loader/dist/runtime/getUrl.js",
+              "loc": "4:0-96",
+              "moduleId": 354,
+              "resolvedModuleId": 354
+            },
+            {
+              "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+              "module": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+              "moduleName": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+              "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+              "resolvedModule": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "../node_modules/css-loader/dist/runtime/getUrl.js",
+              "loc": "7:41-72",
+              "moduleId": 354,
+              "resolvedModuleId": 354
+            },
+            {
+              "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/runtime/getUrl.js",
+              "module": "./node_modules/css-loader/dist/runtime/getUrl.js",
+              "moduleName": "./node_modules/css-loader/dist/runtime/getUrl.js",
+              "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/runtime/getUrl.js",
+              "resolvedModule": "./node_modules/css-loader/dist/runtime/getUrl.js",
+              "type": "cjs self exports reference",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "3:0-14",
+              "moduleId": 667,
+              "resolvedModuleId": 667
+            }
+          ],
+          "usedExports": null,
+          "providedExports": null,
+          "optimizationBailout": [
+            "CommonJS bailout: module.exports is used directly at 3:0-14",
+            "Statement (ExpressionStatement) with side effects in source code at 3:0-34:2",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1
+        },
+        {
+          "type": "module",
+          "moduleType": "asset",
+          "size": 5176.240000000001,
+          "sizes": {
+            "javascript": 5176.240000000001
+          },
+          "built": true,
+          "codeGenerated": true,
+          "cached": false,
+          "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/logo.jpg",
+          "name": "./src/logo.jpg",
+          "nameForCondition": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/logo.jpg",
+          "index": 4,
+          "preOrderIndex": 4,
+          "index2": 3,
+          "postOrderIndex": 3,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "issuer": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+          "issuerName": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+          "issuerPath": [
+            {
+              "identifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+              "name": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+              "id": 354
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 135,
+          "issuerId": 354,
+          "chunks": [
+            323
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+              "module": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+              "moduleName": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+              "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+              "resolvedModule": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./logo.jpg",
+              "loc": "5:0-55",
+              "moduleId": 354,
+              "resolvedModuleId": 354
+            },
+            {
+              "moduleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+              "module": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+              "moduleName": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+              "resolvedModuleIdentifier": "/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!/Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/src/main.css",
+              "resolvedModule": "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./logo.jpg",
+              "loc": "7:73-102",
+              "moduleId": 354,
+              "resolvedModuleId": 354
+            }
+          ],
+          "usedExports": true,
+          "providedExports": [],
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module Concatenation is not implemented for AssetGenerator"
+          ],
+          "depth": 1
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "size": 302,
+          "sizes": {
+            "runtime": 302
+          },
+          "built": false,
+          "codeGenerated": true,
+          "cached": false,
+          "identifier": "webpack/runtime/compat get default export",
+          "name": "webpack/runtime/compat get default export",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            323
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "size": 313,
+          "sizes": {
+            "runtime": 313
+          },
+          "built": false,
+          "codeGenerated": true,
+          "cached": false,
+          "identifier": "webpack/runtime/define property getters",
+          "name": "webpack/runtime/define property getters",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            323
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "size": 103,
+          "sizes": {
+            "runtime": 103
+          },
+          "built": false,
+          "codeGenerated": true,
+          "cached": false,
+          "identifier": "webpack/runtime/hasOwnProperty shorthand",
+          "name": "webpack/runtime/hasOwnProperty shorthand",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            323
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "size": 279,
+          "sizes": {
+            "runtime": 279
+          },
+          "built": false,
+          "codeGenerated": true,
+          "cached": false,
+          "identifier": "webpack/runtime/make namespace object",
+          "name": "webpack/runtime/make namespace object",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            323
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        }
+      ],
+      "entrypoints": {
+        "mini-css-extract-plugin": {
+          "name": "mini-css-extract-plugin",
+          "chunks": [
+            323
+          ],
+          "assets": [],
+          "filteredAssets": 0,
+          "assetsSize": 0,
+          "auxiliaryAssets": [],
+          "filteredAuxiliaryAssets": 0,
+          "auxiliaryAssetsSize": 0,
+          "children": {},
+          "childAssets": {},
+          "isOverSizeLimit": false
+        }
+      },
+      "namedChunkGroups": {
+        "mini-css-extract-plugin": {
+          "name": "mini-css-extract-plugin",
+          "chunks": [
+            323
+          ],
+          "assets": [],
+          "filteredAssets": 0,
+          "assetsSize": 0,
+          "auxiliaryAssets": [],
+          "filteredAuxiliaryAssets": 0,
+          "auxiliaryAssetsSize": 0,
+          "children": {},
+          "childAssets": {},
+          "isOverSizeLimit": false
+        }
+      },
+      "errors": [],
+      "errorsCount": 0,
+      "warnings": [],
+      "warningsCount": 0,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "chunks": {
+    "byName": {
+      "main": 179,
+      "runtime": 666
+    },
+    "bySource": {
+      "0 ./node_modules/babel-loader/lib/index.js!./src/component.js ./lazy": 34,
+      "0 main": 666,
+      "1 main": 179
+    },
+    "usedIds": [
+      34,
+      179,
+      666
+    ]
+  },
+  "mini-css-extract-plugin /Users/wuxiao/wuxiao-desktop/weisuoke/webpack/webpack5-demo/node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css": [
+    {
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 323
+        },
+        "bySource": {
+          "0 mini-css-extract-plugin": 323
+        },
+        "usedIds": [
+          323
+        ]
+      },
+      "modules": {
+        "byIdentifier": {
+          "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[2]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].use[3]!./src/main.css": 354,
+          "./node_modules/css-loader/dist/runtime/api.js": 645,
+          "./node_modules/css-loader/dist/runtime/cssWithMappingToString.js": 15,
+          "./node_modules/css-loader/dist/runtime/getUrl.js": 667,
+          "./src/logo.jpg": 135
+        },
+        "usedIds": [
+          15,
+          135,
+          354,
+          645,
+          667
+        ]
+      }
+    }
+  ],
+  "modules": {
+    "byIdentifier": {
+      "./node_modules/babel-loader/lib/index.js!./src/index.js|3b5704a399f34a5e9c67262b3ec8146c": 626,
+      "./node_modules/babel-loader/lib/index.js!./src/lazy.js": 34
+    },
+    "usedIds": [
+      34,
+      626
+    ]
+  }
+}
