@@ -55,7 +55,7 @@ exports.extractCSS = ({ options = {}, loaders = []} = {}) => {
     },
     plugins: [
       new MiniCssExtractPlugin({
-        filename: "[name].css"
+        filename: "[name].[contenthash].css"
       })
     ]
   }
@@ -131,5 +131,14 @@ exports.minifyCSS = ({ options }) => ({
     ]
   }
 })
+
+exports.setFreeVariable = (key, value) => {
+  const env = {};
+  env[key] = JSON.stringify(value);
+
+  return {
+    plugins: [new webpack.DefinePlugin(env)]
+  }
+}
 
 exports.generateSourceMaps = ({ type }) => ({ devtool: type });

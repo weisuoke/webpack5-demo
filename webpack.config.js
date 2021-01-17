@@ -13,9 +13,17 @@ const commonConfig = merge([
   parts.loadImages({ limit: 15000 }),
   parts.loadJavaScript(),
   parts.generateSourceMaps({ type: "source-map" }),
+  parts.setFreeVariable("HELLO", "hello from config")
 ])
 
 const productionConfig = merge([
+  {
+    output: {
+      chunkFilename: "[name].[contenthash].js",
+      filename: "[name].[contenthash].js",
+      assetModuleFilename: "[name].[contenthash][ext][query]"
+    }
+  },
   parts.minifyJavaScript(),
   parts.minifyCSS({ options: { preset: ["default"] } }),
   parts.eliminateUnusedCSS(),
