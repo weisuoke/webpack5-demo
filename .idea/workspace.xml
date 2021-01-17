@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a2e36ea2-c7e0-4200-993d-d934d3f236fb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/c9a4230-main-wps-hmr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/c9a4230-wps-hmr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
@@ -64,7 +64,7 @@
       <workItem from="1610413046945" duration="593000" />
       <workItem from="1610506699754" duration="1190000" />
       <workItem from="1610705769317" duration="884000" />
-      <workItem from="1577836935399" duration="3353000" />
+      <workItem from="1577836935399" duration="5730000" />
     </task>
     <servers />
   </component>
@@ -76,5 +76,9 @@
       <screen x="26" y="23" width="1654" height="1027" />
     </state>
     <state x="555" y="345" key="#com.intellij.fileTypes.FileTypeChooser/26.23.1654.1027@26.23.1654.1027" timestamp="1610327734941" />
+    <state x="518" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1610894509554">
+      <screen x="26" y="23" width="1654" height="1027" />
+    </state>
+    <state x="518" y="250" width="670" height="676" key="search.everywhere.popup/26.23.1654.1027@26.23.1654.1027" timestamp="1610894509554" />
   </component>
 </project>
