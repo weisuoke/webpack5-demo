@@ -27,10 +27,6 @@ exports.devServer = () => ({
   ]
 })
 
-exports.page = ({ title }) => ({
-  plugins: [new MiniHtmlWebpackPlugin({ context: { title } })],
-})
-
 exports.loadCSS = () => ({
   module: {
     rules: [
@@ -142,3 +138,14 @@ exports.setFreeVariable = (key, value) => {
 }
 
 exports.generateSourceMaps = ({ type }) => ({ devtool: type });
+
+exports.page = ({ title, url = "", chunks } = {}) => ({
+  plugins: [
+    new MiniHtmlWebpackPlugin({
+      publicPath: "/",
+      chunks,
+      filename: `${url && url + "/"}index.html`,
+      context: { title }
+    })
+  ]
+})

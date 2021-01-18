@@ -6,7 +6,8 @@
   "scripts": {
     "start": "wp --mode development",
     "build": "wp --mode production",
-    "build:stats": "wp --mode production --json > stats.json"
+    "build:stats": "wp --mode production --json > stats.json",
+    "build:multi": "wp --config webpack.multi.js"
   },
   "repository": {
     "type": "git",
